@@ -5,11 +5,11 @@
 * connectorsPanel - Connectors for panel use
 * connectorsSM - SMT PCB connectors
 * connectorsTH - Through hole PCB connectors
-* discreteSMD - SMT descrete semiconductor components
-* discreteTHD - Through hole descrete semiconductor components
+* discreteSMD - SMT discrete semiconductor components
+* discreteTHD - Through hole discrete semiconductor components
 * IC_SMD - SMT ICs
 * IC_THD - Through hole ICs
-* misc - A variety of miscellenious components
+* misc - A variety of miscellaneous components
 * opto - Optical electronic components
 * passiveSMD - SMT passive components
 * passiveTHD - Through hole passive components

@@ -2,7 +2,7 @@
 \+ some additional stuff
 
 > [!NOTE]  
-> Model archives is under Releases =>.
+> Model archives are in Releases section ⇨.
 
 ## Electronic components
 * connectorsPanel - Connectors for panel use

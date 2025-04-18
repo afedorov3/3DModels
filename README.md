@@ -1,6 +1,9 @@
 # 3DModels collection snapshots from [GRABCAD](https://grabcad.com/alex.fedorov-3)
 \+ some additional stuff
 
+> [!NOTE]  
+> Model archives is under Releases =>.
+
 ## Electronic components
 * connectorsPanel - Connectors for panel use
 * connectorsSM - SMT PCB connectors
